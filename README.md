@@ -3,6 +3,10 @@ A curated list of awesome apps that run purely on the terminal
 
 ### Communication
 * [aloo](https://github.com/DavidValin/aloo) - Secure P2P terminal walky talky / text / file transfer communication with public/private channels, DMs, and several strong encryption algorithms. Support global hotkey for voice push to talk.
+* [iamb](https://github.com/ulyssa/iamb) - Awesome client for matrix messaging
+* [phetch](https://github.com/xvxx/phetch) - Gopher client (used to navigate through menus, read text, download files from Gopher servers)
+* 
+* [repartee](https://repart.ee) - Awesome irc client
 
 ### Business
 * [Tiny Business Simulator](https://github.com/DavidValin/tiny-business-simulator) - Simulate a business using .txt files per product, monthly and yearly profit goals and get a simulation (graph + counts). It exports in text files which might be used to interoperate with AI models.
