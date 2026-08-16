@@ -24,22 +24,7 @@ A curated list of awesome apps that run purely on the terminal
 * [claude](https://www.claudecli.org) - CLI to operate frontier models from Antrophic
 * [picoclaw](https://github.com/sipeed/picoclaw) - ultralightway single-agent personal utility and device edge computing designed to run on cheap $10 IoT hardware using under 10 MB of RAM
 
-### Encryption
-* [otp](https://github.com/DavidValin/otp) - "One Time Pad" (Vernan Cipher) cli. Manage a keychain with a key pair random keys per contact with consumption tracking. Encrypts/Decrypt using One Time Pad (the only true quantum proof algorithm that exists). 
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
+### Cryptography
+* [otp](https://github.com/DavidValin/otp) - "One Time Pad" (Vernan Cipher) cli. Manage a keychain with a key pair random keys per contact with consumption tracking. Encrypts/Decrypt using One Time Pad (the only true quantum proof algorithm that exists).
+* [gpg](https://www.gnupg.org) - The swiss army for encryption/decryption. Support most of the cryptographic methods. It also has a keychain to store keys locally
+* [srm](https://sourceforge.net/projects/srm/) - Remove files securely by overriding its content. Useful to destroy private keys safely
